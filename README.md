@@ -7,3 +7,28 @@ Welcome to the CSS Projects repository!
 <h2>Product Card Project </h2>
 <p> 
 Creating a product card using HTML and CSS involves structuring your HTML to contain the necessary elements (like the product image, title, description, price), and then styling these elements with CSS to make the card visually appealing.</p>
+
+
+# DENTYTECH Website Template
+
+## Overview
+The **DENTYTECH Template** is a modern and minimalist web template ideal for startups and businesses. It features a bold design, responsive layout, and dynamic elements to showcase your brand effectively.
+
+---
+
+## Features
+- **Responsive Navigation Bar**:
+  - **Left**: Menu button with an icon.
+  - **Center**: Brand name prominently displayed (`DENTYTECH`).
+  - **Right**: `Log In` and `Sign Up` buttons styled with rounded corners.
+  
+- **Hero Section**:
+  - Bold headline (`OUR ADVANTAGES`) in uppercase and centered.
+  - Four layered images with dynamic rotations for a stylish appearance.
+
+- **Social Media Icons**:
+  - Integrated Instagram, Facebook, and Twitter icons.
+  - Positioned in the bottom-right corner.
+
+- **Arrow Icon**:
+  - An interactive icon for intuitive navigation.

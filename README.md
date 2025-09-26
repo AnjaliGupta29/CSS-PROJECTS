@@ -52,3 +52,24 @@ This is a mini-project demonstrating a **Neon Button Effect** using HTML and CSS
 
 ✨ Enjoy the glowing neon effect! 🚀
 
+
+# 🧮 Calculator Project
+
+A simple and stylish calculator built using **HTML, CSS, and JavaScript**.
+
+## 🚀 Features
+- Basic arithmetic operations (+, −, ×, ÷)  
+- Clear (C) and Backspace (⌫) functionality  
+- Responsive layout (works on desktop & mobile)  
+- Modern 3D design with hover & press effects  
+
+## 🛠️ Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+
+## 📂 How to Run
+- Clone the repo  
+- Open `index.html` in your browser  
+- Start calculating 🎉  
+ <!-- replace with actual screenshot if available -->
